@@ -1,12 +1,3 @@
----
-name: ML_model
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ### **학습 목적**🍐
 
 ML 모델을 통해 수행하고자 하는 목표를 적어주세요.
